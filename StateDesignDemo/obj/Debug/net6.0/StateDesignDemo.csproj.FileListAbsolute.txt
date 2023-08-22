@@ -1,0 +1,15 @@
+C:\Users\Admin\OneDrive\Desktop\Assignment\Assignment21\StateDesignDemo\bin\Debug\net6.0\StateDesignDemo.exe
+C:\Users\Admin\OneDrive\Desktop\Assignment\Assignment21\StateDesignDemo\bin\Debug\net6.0\StateDesignDemo.deps.json
+C:\Users\Admin\OneDrive\Desktop\Assignment\Assignment21\StateDesignDemo\bin\Debug\net6.0\StateDesignDemo.runtimeconfig.json
+C:\Users\Admin\OneDrive\Desktop\Assignment\Assignment21\StateDesignDemo\bin\Debug\net6.0\StateDesignDemo.dll
+C:\Users\Admin\OneDrive\Desktop\Assignment\Assignment21\StateDesignDemo\bin\Debug\net6.0\StateDesignDemo.pdb
+C:\Users\Admin\OneDrive\Desktop\Assignment\Assignment21\StateDesignDemo\obj\Debug\net6.0\StateDesignDemo.csproj.AssemblyReference.cache
+C:\Users\Admin\OneDrive\Desktop\Assignment\Assignment21\StateDesignDemo\obj\Debug\net6.0\StateDesignDemo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\OneDrive\Desktop\Assignment\Assignment21\StateDesignDemo\obj\Debug\net6.0\StateDesignDemo.AssemblyInfoInputs.cache
+C:\Users\Admin\OneDrive\Desktop\Assignment\Assignment21\StateDesignDemo\obj\Debug\net6.0\StateDesignDemo.AssemblyInfo.cs
+C:\Users\Admin\OneDrive\Desktop\Assignment\Assignment21\StateDesignDemo\obj\Debug\net6.0\StateDesignDemo.csproj.CoreCompileInputs.cache
+C:\Users\Admin\OneDrive\Desktop\Assignment\Assignment21\StateDesignDemo\obj\Debug\net6.0\StateDesignDemo.dll
+C:\Users\Admin\OneDrive\Desktop\Assignment\Assignment21\StateDesignDemo\obj\Debug\net6.0\refint\StateDesignDemo.dll
+C:\Users\Admin\OneDrive\Desktop\Assignment\Assignment21\StateDesignDemo\obj\Debug\net6.0\StateDesignDemo.pdb
+C:\Users\Admin\OneDrive\Desktop\Assignment\Assignment21\StateDesignDemo\obj\Debug\net6.0\StateDesignDemo.genruntimeconfig.cache
+C:\Users\Admin\OneDrive\Desktop\Assignment\Assignment21\StateDesignDemo\obj\Debug\net6.0\ref\StateDesignDemo.dll
